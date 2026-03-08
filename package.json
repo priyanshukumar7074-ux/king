@@ -1,0 +1,1 @@
+{\n  "name": "messaging-app",\n  "version": "1.0.0",\n  "description": "A real-time private messaging application",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "socket.io": "^3.1.2"\n  }\n}
